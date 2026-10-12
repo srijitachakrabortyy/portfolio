@@ -45,7 +45,7 @@ const Portfolio = ({ onReplayCan }) => {
     rurboo: {
       company: 'RURBOO',
       role: 'Founding Operations & Product Testing Intern',
-      period: 'March 2024 - Present • On-ground Operations (U.P., India)',
+      period: 'March 2026 - June 2026 • On-ground Operations (U.P., India)',
       bullets: [
         'Led 0-to-1 Go-to-Market strategy and product vision for rural mobility apps, collaborating directly with the Founder to align product roadmap with business scaling metrics.',
         'Authored investor pitch decks for Google for Startups Immersion x ANTLER.',
